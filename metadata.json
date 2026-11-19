@@ -1,0 +1,6 @@
+{
+  "name": "PIESMR & LGPM 26/27 V4 — Intelligence Métier FAC",
+  "description": "Outil bilingue (FR/EN) de recherche, croisement inter-tableaux, correspondance des notes de bas de page et simulation d'admissibilité pour les 12 listes du LGPM 26/27 V4 et du PIESMR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
